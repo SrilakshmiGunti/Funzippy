@@ -1,0 +1,502 @@
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300..700&display=swap');
+
+.app{
+   background-color: rgb(10, 5, 48);
+   
+   /* align-items: left; */
+   background-size: cover;
+   background-image: url('1stframe.png');
+   background-repeat: no-repeat;
+}
+
+body{
+    font-family: "Space Grotesk", sans-serif;
+}
+
+
+.background{ 
+    height: 100vh;
+    background-size: cover;
+    background-image:linear-gradient(180deg, #1A1256 0%, rgba(26, 18, 86, 0.44) 55%) , url("starting.png");
+
+}
+
+.card1-container{
+    text-align: center;
+}
+
+.heading{
+    font-size: 30px;
+    color: white;
+    padding-top: 20px;
+
+    
+}
+.transparent{
+       background: url('Object.png');
+   width: 978.97px;
+   height: 1485px;
+   top: 226px;
+   left: 558px;
+   gap: 0px;
+   opacity: 0.15px;
+}
+.horizantal-line{
+    position: relative;
+    margin: 2em 0;
+}
+.margin{
+    margin-left: 220px;
+}
+.Rectangle{
+    width: 25px;
+    height: 25px;
+    margin-right: 10px;
+}
+
+.nav{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}
+
+.image{
+    width: 531px;
+    height: 459px;
+    top: 799px;
+    left: 161px;
+    gap: 0px;
+    border-radius: 20px 0px 0px 0px;
+    opacity: 0px;
+
+}
+
+.About-science{
+    /* width: 471px; */
+/* height: 108px; */
+
+/* left: 739px; */
+margin-top: 30px;
+gap: 0px;
+opacity: 0px;
+font-size: 35px;
+font-weight: 500;
+line-height: 40px;
+text-align: left;
+color: #FFFFFF;
+}
+
+.learn-para{
+    width: 545px;
+    height: 130px;
+    top: 923px;
+    left: 735px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Space Grotesk;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 25.52px;
+    text-align: left;
+    color: #8E8E8E;
+}
+
+.key-highlights{
+    width: 195px;
+height: 36px;
+top: 1080px;
+left: 735px;
+gap: 0px;
+opacity: 0px;
+font-family: Space Grotesk;
+font-size: 28px;
+font-weight: 500;
+line-height: 35.73px;
+text-align: left;
+color: #FFFFFF;
+}
+
+.play-video{
+    width: 80px;
+    height: 20px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Space Grotesk;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 20.42px;
+    text-align: left;
+    color: #5B46F4;
+        
+}
+
+.playbutton{
+    width: Hug (150px)px;
+    height: Hug (44px)px;
+    top: 1283px;
+    left: 542px;
+    padding: 12px 22px 12px 22px;
+    gap: 10px;
+    border-radius: 26px 0px 0px 0px;
+    border: 1px 0px 0px 0px;
+    opacity: 0px;
+    
+}
+
+.playicon{
+    width: 13.03px;
+    height: 16px;
+    top: 0px;
+    left: 2px;
+    gap: 0px;
+    opacity: 0px;
+    color: #5B46F4;
+    border: 1px solid #5B46F4;
+    
+}
+
+
+.expo-schedule{
+
+font-size: 35px;
+font-weight: 500;
+line-height: 53.59px;
+text-align: left;
+color: #FFFFFF;
+margin-left:50px;
+margin-top: 10px;
+}
+
+.days{
+
+font-size: 23px;
+font-weight: 400;
+text-align: left;
+color: #5B46F4;
+
+}
+
+.line{
+width: 232px;
+height: 2px;
+border: 2px solid rgba(91, 70, 244, 1);
+}
+
+.date{
+    width: 170px;
+    height: 26px;
+    top: 1544px;
+    left: 256px;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 25.52px;
+    text-align: left;
+    color: #8E8E8E;
+        
+}
+
+.line-32{
+    width: 1120px;
+height: 0px;
+top: 1595px;
+left: 160px;
+gap: 0px;
+border: 1px 0px 0px 0px;
+opacity: 0.1px;
+width: 1120px;
+height: 0px;
+top: 1595px;
+left: 160px;
+gap: 0px;
+border: 1px 0px 0px 0px;
+opacity: 0.1px;
+
+}
+
+
+.line{
+    width: 128px;
+height: 0px;
+top: 1667px;
+left: 264px;
+gap: 0px;
+border: 1px 0px 0px 0px;
+opacity: 0px;
+border: 1px solid #5B46F4;
+}
+
+.footer{
+    display: flex;
+    width: Hug (1,001px)px;
+    height: Hug (26px)px;
+    top: 4513px;
+    left: 161px;
+    gap: 50px;
+    opacity: 0px;
+    padding: 20px;
+    
+}
+
+.footersection{
+    width: 150px;
+height: 26px;
+font-size: 17px;
+font-weight: 400;
+line-height: 25.52px;
+text-align: center;
+margin-top: 30px;
+color: #FFFFFF;
+
+}
+
+.hr{
+    width: 1120px;
+height: 0px;
+top: 4577px;
+left: 160px;
+gap: 0px;
+border: 1px 0px 0px 0px;
+opacity: 0.3px;
+border: 1px solid #FFFFFF;
+}
+
+.card-3{
+    background-image: url('Rectangle\ 258.png');
+    height: 100vh;
+    background-size: cover;
+}
+
+.card-5{
+    background-size: cover;
+    background-color: #5B46F4;
+    width: object-fit;
+    height: 296px;
+    top: 4000px;
+    padding: 20px;
+    padding-left: 161px;
+}
+
+.Expo-2024{
+    width: 205px;
+height: 20px;
+top: 4435px;
+left: 161px;
+gap: 50px;
+font-size: 30px;
+font-weight: 500;
+line-height: 30px;
+color: #FFFFFF;
+/* margin-left: 38px; */
+padding: 10px;
+
+}
+.background-card4{
+    background-image: linear-gradient(90deg, #000000 0%, rgba(26, 18, 86, 0.44) 100%) , url("last_banner.png");
+    Width:100%;
+Height:473px;
+left: 273px;
+right: 273px;
+}
+.background-card4 button{
+    width: 194px;
+    height: 44px;
+    border-radius: 30px;
+}
+.last-line{
+    width: 312px;
+height: 18px;
+top: 4600px;
+left: 160px;
+gap: 0px;
+opacity: 0px;
+font-family: Space Grotesk;
+font-size: 14px;
+font-weight: 400;
+line-height: 17.86px;
+text-align: center;
+font-family: Space Grotesk;
+font-size: 14px;
+font-weight: 400;
+line-height: 17.86px;
+text-align: center;
+color: #FFFFFF;
+margin-left: 20px;
+}
+
+.Exhib_spons{
+    width: 494px;
+    height: 54px;
+    top: 3660px;
+    left: 161px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Space Grotesk;
+    font-size: 42px;
+    font-weight: 500;
+    line-height: 53.59px;
+    text-align: left;
+    color: #FFFFFF;
+    margin: 30px;
+        
+}
+
+.logo{
+width: 258px;
+height: 95px;
+top: 3754px;
+left: 448px;
+gap: 0px;
+border-radius: 23px 23px 23px 23px;
+border: 1px 0px 0px 0px;
+opacity: 0px;
+border: 1px solid #AEAEAE;
+}
+
+.logos{
+display: flex;
+align-items: center;
+justify-content: space-evenly;
+margin: 10px;
+margin-bottom: 20px;
+padding: 10px;
+}
+
+.faqs{
+    width: 98px;
+height: 54px;
+top: 3013px;
+left: 161px;
+gap: 0px;
+opacity: 0px;
+font-family: Space Grotesk;
+font-size: 42px;
+font-weight: 500;
+line-height: 53.59px;
+text-align: left;
+color: #FFFFFF;
+margin-left: 30px;
+}
+.d01{
+    width: 46px;
+height: 54px;
+top: 3107px;
+left: 161px;
+gap: 0px;
+opacity: 0px;
+font-family: Space Grotesk;
+font-size: 42px;
+font-weight: 500;
+line-height: 53.59px;
+text-align: left;
+color: #5B46F4;
+
+}
+.eventstarts{
+    width: 376px;
+height: 31px;
+top: 3110px;
+left: 228px;
+gap: 0px;
+opacity: 0px;
+font-family: Space Grotesk;
+font-size: 24px;
+font-weight: 500;
+line-height: 30.62px;
+text-align: left;
+color: #FFFFFF;
+
+}
+.eventtime{
+    width: 428px;
+height: 26px;
+top: 3157px;
+left: 228px;
+gap: 0px;
+opacity: 0px;
+font-family: Space Grotesk;
+font-size: 20px;
+font-weight: 400;
+line-height: 25.52px;
+text-align: left;
+color: #8E8E8E;
+margin-left: 30px;
+
+}
+.faqsSchedule{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 20px;
+    padding: 20px;
+}
+.speakers_present{
+    width: 503px;
+height: 54px;
+top: 2447px;
+left: 161px;
+gap: 0px;
+opacity: 0px;
+font-family: Space Grotesk;
+font-size: 42px;
+font-weight: 500;
+line-height: 53.59px;
+text-align: left;
+color: #FFFFFF;
+
+}
+.speakers-bg{
+    background: linear-gradient(180deg, #1A1256 0%, rgba(26, 18, 86, 0.44) 100%);
+    height: 100vh;
+    background-size: cover;
+}
+.speakers_container{
+    width: 1022px;
+    height: 1518px;
+    top: 1665px;
+    left: -28px;
+    gap: 0px;
+    opacity: 0.15px;
+    
+    
+}
+
+.speakers-img{
+    width: 258px;
+    height: 324px;
+    top: 2544px;
+    left: 160px;
+    gap: 0px;
+    border-radius: 23px 0px 0px 0px;
+    opacity: 0px;
+    
+}
+
+.speakers_name{
+    width: 164px;
+height: 36px;
+top: 2884px;
+left: 161px;
+gap: 0px;
+opacity: 0px;
+font-family: Space Grotesk;
+font-size: 28px;
+font-weight: 500;
+line-height: 35.73px;
+text-align: left;
+color: #5B46F4;
+
+}
+.speaker_designiation{
+    width: 79px;
+    height: 26px;
+    top: 2927px;
+    left: 161px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Space Grotesk;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 25.52px;
+    text-align: left;
+    color: #8E8E8E;
+}
